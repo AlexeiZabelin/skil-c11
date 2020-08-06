@@ -1,0 +1,61 @@
+
+
+body {
+  text-align: center;
+  background-color: #E9E9E9;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 100;
+}
+
+p{
+  margin: 0;
+}
+ 
+.countdown-title {
+  color: #18150B;
+  font-weight: 100;
+  font-size: 60px;
+  margin: 40px 0px 20px;
+}
+ 
+.countdown {
+  color: #18150B;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 35px;
+}
+ 
+.countdown-number {
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #D1BC7A;
+  display: inline-block;
+}
+ 
+.countdown-time {
+  padding: 15px;
+  border-radius: 3px;
+  background-color: #E9E9E9;
+  display: inline-block;
+}
+ 
+.countdown-text {
+  display: block;
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+.message{
+  color: red;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+button{
+  margin-top: 30px;
+  padding: 8px 10px;
+  border-radius: 5px;
+  border: 2px solid #C1A349;
+  background-color: white;
+}
